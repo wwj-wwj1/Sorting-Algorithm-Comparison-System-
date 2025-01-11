@@ -1,0 +1,11 @@
+﻿  FileName.cpp
+F:\c,c++\数据结构小组作业\数据结构小组作业\FileName.cpp(128,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+F:\c,c++\数据结构小组作业\数据结构小组作业\FileName.cpp(213,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+F:\c,c++\数据结构小组作业\数据结构小组作业\FileName.cpp(207,17): warning C4101: “k”: 未引用的局部变量
+F:\c,c++\数据结构小组作业\数据结构小组作业\FileName.cpp(207,9): warning C4101: “j”: 未引用的局部变量
+F:\c,c++\数据结构小组作业\数据结构小组作业\FileName.cpp(247,6): warning C4101: “i”: 未引用的局部变量
+F:\c,c++\数据结构小组作业\数据结构小组作业\FileName.cpp(375,25): warning C4101: “mid”: 未引用的局部变量
+F:\c,c++\数据结构小组作业\数据结构小组作业\FileName.cpp(375,15): warning C4101: “low”: 未引用的局部变量
+F:\c,c++\数据结构小组作业\数据结构小组作业\FileName.cpp(375,20): warning C4101: “top”: 未引用的局部变量
+F:\c,c++\数据结构小组作业\数据结构小组作业\FileName.cpp(375,6): warning C4101: “i”: 未引用的局部变量
+  数据结构小组作业.vcxproj -> F:\c,c++\数据结构小组作业\x64\Debug\数据结构小组作业.exe
